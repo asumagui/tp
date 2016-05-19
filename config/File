@@ -1,0 +1,28 @@
+//:configuration = Debug
+
+//:configuration = Release
+
+//:completeSettings = some
+ADDITIONAL_SDKS
+ARCHS
+SDKROOT
+ONLY_ACTIVE_ARCH
+SUPPORTED_PLATFORMS
+VALID_ARCHS
+
+//:configuration = Debug
+
+//:configuration = Release
+
+//:completeSettings = some
+ARCHS
+
+//:configuration = Debug
+SDKROOT = iphoneos
+
+//:completeSettings = none
+
+//:configuration = Debug
+SUPPORTED_PLATFORMS = iphonesimulator iphoneos
+
+//:completeSettings = none
